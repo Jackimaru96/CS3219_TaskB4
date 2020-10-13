@@ -4,7 +4,8 @@
 
 ## TOC
 
-1. [Task B4](#Task-B4)
+1. [Link to Task B1 to B3](https://github.com/Jackimaru96/CS3219_TaskB1-B3)
+2. [Task B4](#Task-B4)
 
 ## Task B4
 
